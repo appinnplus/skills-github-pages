@@ -1,0 +1,5 @@
+Spring的三件套是指 Spring Framework, Spring Boot和Spring Cloud
+  Spring Framework是一种全栈式的Java企业级应用开发框架, 提供了Ioc容器, AOP, ORM, 事务管理, web开发, 消息队列等功能, 可以帮助开发者快速构建高质量的企业级别应用.
+  Spring Boot是基于Spring Framework的快速开发框架, 提供了自动配置/快速开发/无代码生成/无XML配置等特性, 可以帮助开发者快速构建独立的, 生产级别的Spring应用程序
+  Spring Cloud是基于Spring Boot的微服务开发框架, 提供了服务注册与发现, 配置中心, 负载均衡, 断路器, 分布式跟踪等功能, 可以帮助开发者快速构建分布式系统和微服务架构
+  Spring三件套框架可以协同工作, 提供了从单体应用到分布式系统的全面解决方案, 是Java企业级应用开发的首选框架
